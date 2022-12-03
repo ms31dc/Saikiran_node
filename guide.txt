@@ -1,0 +1,5 @@
+1.npm init 
+give name and hit enter multiple times
+
+2.npm install --save-dev nodemon
+The above will install nodemon

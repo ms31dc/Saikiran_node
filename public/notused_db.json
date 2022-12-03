@@ -1,0 +1,61 @@
+{"reviews": [{
+  "id":1,
+  "restaurant Name": "Taj Mahal",
+  "cuisine": "Indian",
+  "bestDishes":[ "Chieckn 65", "Gobi Mutter", "Aloo chat"],
+  "isHealthInspected": true,
+  "review date": "2019-07-04",
+  "rating": 5
+
+},
+{
+  "id":2,
+  "restaurant Name": "Roti Boti",
+  "cuisine": "Indian",
+  "bestDishes":[ "Samosa Chat", "Ghee roast chicken", "Panneer Butter Masala"],
+  "isHealthInspected": false,
+  "review date": "2020-04-03",
+  "rating": 3
+
+},
+{
+  "id":3,
+  "restaurant Name": "Shaare Khan",
+  "cuisine": "Indian",
+  "bestDishes":[ "Raj Kachori", "Vada Pav", "Paneer Makhan Masala"],
+  "isHealthInspected": true,
+  "review date": "2022-07-06",
+  "rating": 5
+
+},
+{
+  "id":4,
+  "restaurant Name": "Sally's",
+  "cuisine": "Italian",
+  "bestDishes":[ "Buffalo Chicken Pizza", "Ceasar Salad ", "Peperroni Pizza"],
+  "isHealthInspected": true,
+  "review date": "1999-06-01",
+  "rating": 5
+
+},
+{
+  "id":5,
+  "restaurant Name": "Sushi Joint",
+  "cuisine": "Japanese",
+  "bestDishes":[ "Teriyaki Chicken", "Jasmin Rice and gravy", "Lobster Roll"],
+  "isHealthInspected": true,
+  "review date": "2019-11-02",
+  "rating": 5
+
+},
+{
+  "id":6,
+  "restaurant Name": "Hot Chicken",
+  "cuisine": "American",
+  "bestDishes":[ "Tenessee Hot Chicken Wings", "Spicy Chicken with Waffles", "Spicy baked potato with shredded chicken"],
+  "isHealthInspected": true,
+  "review date": "2014-05-03",
+  "rating": 5
+
+}
+]}

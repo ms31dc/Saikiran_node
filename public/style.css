@@ -1,0 +1,123 @@
+
+
+.grey-backgrnd{
+    
+    color:#e5fb75;
+    margin-left: 40px;
+    text-decoration: none;
+}
+
+.heightAbout{
+    height: 550px;
+    background-color: #D8B5D7;
+    margin: 20px;
+    padding: 10px;
+    overflow: hidden;
+    border-radius:5px;
+    /*text-align: center;*/
+}
+
+
+.height300{
+    height: 350px;
+    background-color: lightsalmon;
+    margin: 20px;
+    padding: 10px;
+    overflow: hidden;
+    border-radius:5px;
+    /*text-align: center;*/
+}
+
+.heightfooter{
+    height: 300px;
+    background-color: #B5CDD8;
+    margin: 20px;
+    padding: 10px;
+    overflow: hidden;
+    border-radius:5px;
+    /*text-align: center;*/
+}
+
+
+
+.heightEducation{
+    height: 150px;
+    background-color:#D8B5B9;
+    margin: 20px;
+    padding: 10px;
+    overflow: hidden;
+    border-radius:5px;
+    /*text-align: center;*/
+}
+
+.heightBlogs{
+    height: 150px;
+    background-color:#B5D8C5;
+    margin: 20px;
+    padding: 10px;
+    overflow: hidden;
+    border-radius:5px;
+    /*text-align: center;*/
+}
+
+
+.heightEx{
+    height: 150px;
+    background-color:#C3D8B5;
+    margin: 20px;
+    padding: 10px;
+    overflow: hidden;
+    border-radius:5px;
+    /*text-align: center;*/
+}
+
+
+.heightProject{
+    height: 200;
+    background-color:#D8CFB5;
+    margin: 20px;
+    padding: 10px;
+    overflow: hidden;
+    border-radius:5px;
+    /*text-align: center;*/
+}
+
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+ 
+
+#navbar{
+    text-align: center;
+    background-color:#BBB5D8;
+    height: 50px;
+    margin:20px;
+    border-radius:5px;
+     
+
+}
+
+#menu{
+   
+    padding-top: 5px;
+}
+
+#name{
+    
+    font:20px;
+    display: block;
+    color: rgb(146, 5, 5);
+}
+
+#title{
+    font:20px;
+    display: block;
+    color: darkorchid;
+}
+
+ 
